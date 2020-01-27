@@ -314,14 +314,14 @@ browser_mode = 'headless'
 
 # chrome driver executable path
 # get chrome drivers here: https://chromedriver.storage.googleapis.com/index.html?path=2.41/
-chromedriver_path = '/home/nikolai/projects/private/Drivers/chromedriver'
+chromedriver_path = '/home/kok00n/projects/virtual_workspace/DRIVERS/chromedriver'
 
 # geckodriver executable path
 # get gecko drivers here: https://github.com/mozilla/geckodriver/releases
-geckodriver_path = '/home/nikolai/projects/private/Drivers/geckodriver'
+geckodriver_path = '/home/kok00n/projects/virtual_workspace/DRIVERS/geckodriver'
 
 # path to firefox binary
-firefox_binary_path = '/home/nikolai/firefox/firefox'
+firefox_binary_path = '/usr/bin/firefox'
 
 # path to chromium browser binary
 chrome_binary_path = '/usr/bin/chromium-browser'
